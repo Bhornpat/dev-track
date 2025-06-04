@@ -3,7 +3,7 @@ name = "dev-track"
 version = "0.1.0"
 description = "A developer collaboration & task tracker"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Bhornpat", email = "thebowiiz2543@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.11"
